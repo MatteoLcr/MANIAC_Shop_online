@@ -1,0 +1,112 @@
+.nabaaaar{
+    z-index: 3;
+}
+
+.navContainer{
+    height: 250px;
+
+}
+
+.navTitle{
+    height: 200px;
+}
+
+
+.ancor{
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
+
+.title{
+    font-size: 100px;
+    color: black;
+}
+
+.ul{
+    list-style: none;
+}
+
+.categoryContainer{
+    list-style: none;
+}
+
+.searcBar{
+    position: absolute;
+    top:400px;
+    height: 30px;
+}
+
+#background-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+  }
+
+
+
+
+  /* INDEX CARD */
+
+  .cardContainer{
+    margin-top: 280px;
+    width: 350px;
+    border: 2px solid black;
+    padding: 15px;
+  }
+
+  .openBtn{
+    width: 100%;
+    background-color: whitesmoke;
+    border: 2px solid black;
+  }
+
+  .openBtn:hover{
+    width: 100%;
+    background-color: black;
+    border: none;
+    color: white;
+    border: 2px solid black;
+  }
+
+
+
+/* SHOW CARD */
+  .boxShow{
+    margin-top: 300px;
+  }
+
+  .cardContainer2{
+    height: 300px;
+    border: 2px solid black;
+    padding: 15px;
+  }
+
+  .cardImage2{
+    height: 270px;
+    width: 350px;
+  }
+
+  .infoContainer{
+    width: 350px;
+  }
+
+
+
+  .loginContainer{
+    margin-top: 300px;
+  }
+
+  .btnCatCard{
+    position: absolute;
+    bottom: 50px;
+    width: 200px;
+    border: 2px black solid;
+  }
+
+
+
+  .chatAiContainer{
+    background-color: aqua;
+  }
